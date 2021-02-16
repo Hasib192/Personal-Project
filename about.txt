@@ -2,3 +2,4 @@ Ei project file gular backup ase, Google drive ar Local PC te, Ar ei project ta 
 Dorkar hoile ei project ta delete kora jaite pare.
 
 **EIta ekta hudai commit**
+**EIta arekta hudai commit**
