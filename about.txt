@@ -7,3 +7,6 @@ Dorkar hoile ei project ta delete kora jaite pare.
 Asa kori klke theke emn kono hudai commit kora lagbe na. 17 February 2021 is the last date of hudai commit
 
 **Na re hoilo na, arekbar hudai commit kora lagbo**
+
+
+Ekhn niyomito eikhane ar likha lage na. Ekhn vhosts e push korte thaki... Ajke 4 tariq, kichu push korte iccha kortese na. Tay likhtesi.
